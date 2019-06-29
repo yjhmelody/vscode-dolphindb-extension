@@ -18,7 +18,7 @@ import * as vscode from 'vscode'
 import * as serverOps from './serverOps'
 import * as env from './env'
 import {dolphindbHelper} from './helper'
-import {context as dolphindbContext, DolphindbContext} from './context'
+import {context as dolphindbContext} from './context'
 
 
 // this method is called when your extension is activated

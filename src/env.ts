@@ -12,8 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 import * as vscode from 'vscode'
-import * as api from './api'
-import * as serverOps from './serverOps'
 import { IDolphindbObject, IDolphindbAttr } from './api'
 
 import { DolphindbContext } from './context';
