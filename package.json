@@ -170,7 +170,11 @@
 				"command": "dolphindb.executeCode",
 				"key": "ctrl+E",
 				"mac": "cmd+E"
-			}
+            },
+            {
+                "key": "ctrl+i",
+                "command": "editor.action.inspectTMScopes"
+            }
 		],
 		"languages": [
 			{
